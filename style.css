@@ -3,11 +3,11 @@ body {
 }
 
 .center-item {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%); 
-        background-color: hsl(212, 45%, 89%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    background-color: hsl(212, 45%, 89%);
 }
 
 .qr-section {
@@ -30,12 +30,12 @@ p {
     font-size: 19px;
     text-align: center;
     color: #7B879D;
-      font-family:'Outfit';
-      font-weight: 400;
-      line-height: 19.35px;
-      letter-spacing: 0.15px;
-      word-wrap: break-word;
-      margin: auto;
+    font-family:'Outfit';
+    font-weight: 400;
+    line-height: 19.35px;
+    letter-spacing: 0.15px;
+    word-wrap: break-word;
+    margin: auto;
 }
 
 h2 {
@@ -44,10 +44,10 @@ h2 {
     font-family: 'Outfit';
     font-weight: 700;
     line-height: 27.09px;
-      word-wrap: break-word;
-      max-width: 254px;
-      color: hsl(218, 44%, 22%);
-      margin: auto auto 16px;
+    word-wrap: break-word;
+    max-width: 254px;
+    color: hsl(218, 44%, 22%);
+    margin: auto auto 16px;
 }
 
 .qr-image {
@@ -60,28 +60,3 @@ h2 {
 
 }
 
-/* The designs were created to the following widths:
-
-- Mobile: 375px
-- Desktop: 1440px
-
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
-
-## Colors
-
-- White: hsl(0, 0%, 100%)
-
-- Slate 300: hsl(212, 45%, 89%)
-- Slate 500: hsl(216, 15%, 48%)
-- Slate 900: hsl(218, 44%, 22%)
-
-## Typography
-
-### Body Copy
-
-- Font size (paragraph): 15px
-
-### Font
-
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
-- Weights: 400, 700 */
